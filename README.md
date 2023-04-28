@@ -12,7 +12,10 @@ Features
 
 Installation
 
-To install GalaxiaQuest, simply download the latest release from the GitHub repository.
+To install GalaxiaQuest, simply navigate to this link
+
+https://drive.google.com/file/d/191XGPg0PlCQEoIIHM5a7vqoHUpOn9nU_/view?usp=share_link
+
 
 Credits
 
