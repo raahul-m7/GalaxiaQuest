@@ -1,9 +1,5 @@
 # GalaxiaQuest
 
-GalaxiaQuest
-
-GalaxiaQuest is an exciting and thrilling space exploration game where players have to drift through the depths of space and reach the space station.
-
 Gameplay
 
 In GalaxiaQuest, players navigate their spaceship through the galaxy, encountering various obstacles such as asteroid fields, hostile alien ships, and dangerous space anomalies. As players explore, they can discover new planets, each with unique environments.
@@ -23,3 +19,4 @@ Credits
 GalaxiaQuest was developed by Raahul Muthukumar.
 
 If you encounter any issues with GalaxiaQuest or have suggestions for future updates, please open an issue on the GitHub repository or contact us directly. We appreciate your feedback and support!
+Free Research Preview. ChatGPT may produce inaccurate information about people, places, or facts. ChatGPT Mar 23 Version
