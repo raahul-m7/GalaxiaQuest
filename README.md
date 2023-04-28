@@ -16,6 +16,7 @@ To install GalaxiaQuest, simply navigate to this link
 
 https://drive.google.com/file/d/191XGPg0PlCQEoIIHM5a7vqoHUpOn9nU_/view?usp=share_link
 
+To run the game , just double click on the "GalaxiaQuest.exe" file
 
 Credits
 
